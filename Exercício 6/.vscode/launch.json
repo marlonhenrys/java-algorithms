@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aplicacao",
+            "request": "launch",
+            "mainClass": "empresa.Aplicacao",
+            "projectName": "Exercício 6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aplicacao",
+            "request": "launch",
+            "mainClass": "data.Aplicacao",
+            "projectName": "Exercício 6"
+        }
+    ]
+}
